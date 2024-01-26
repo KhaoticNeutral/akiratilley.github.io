@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Intro/Cat's Book/Chpt 1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ShoppingCartProject"
+	}
+}
